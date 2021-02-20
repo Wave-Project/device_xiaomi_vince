@@ -1,0 +1,12 @@
+[
+    {
+        "repository":  "aseelps/kernel_xiaomi_vince",
+        "target_path": "kernel/xiaomi/vince",
+        "remote":      "github",
+        "branch":      "darky"
+    },
+    {
+        "repository":  "vendor_xiaomi_vince",
+        "target_path": "vendor/xiaomi/vince"
+    }
+]
